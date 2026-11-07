@@ -30,15 +30,15 @@
 <a href="https://www.tiktok.com/@ngkol_01"><img src="https://img.shields.io/badge/TikTok-@ngkol_01-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
 <a href="https://linkedin.com/in/Yanz"><img src="https://img.shields.io/badge/LinkedIn-Yanz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
-<a href="mailto:yayanruhiat060@gmail.com"><img src="https://img.shields.io/badge/Email-emailkamu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-<a href="https://t.me/BkEy_022"><img src="https://img.shields.io/badge/Telegram-@USERNAME-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+<a href="mailto:yayanruhiat060@gmail.com"><img src="https://img.shields.io/badge/Email-yayanruhiat060@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+<a href="https://t.me/BkEy_022"><img src="https://img.shields.io/badge/Telegram-@BkEy_022-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 <a href="https://wa.me/6288262212706"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" /></a>
-<a href="https://screnn--risrifky28.replit.app"><img src="https://img.shields.io/badge/Website-websitekamu.com-f5a623?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
+<a href="https://screnn--risrifky28.replit.app"><img src="https://img.shields.io/badge/Website-f5a623?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" /></a>
 
 <br/>
 
 <img src="https://img.shields.io/github/followers/USERNAME?style=for-the-badge&logo=github&label=Followers&color=8b5cf6&labelColor=0d1117" alt="Followers" />
-<img src="https://komarev.com/ghpvc/?username=USERNAME&style=for-the-badge&color=f5a623&label=PROFILE+VIEWS" alt="Views" />
+<img src="https://komarev.com/ghpvc/?username=bkey01&style=for-the-badge&color=f5a623&label=PROFILE+VIEWS" alt="Views" />
 
 <br/><br/>
 

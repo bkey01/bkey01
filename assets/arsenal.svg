@@ -30,7 +30,7 @@
   <path d="M6,344 V374 H36"/>
   <path d="M894,344 V374 H864"/>
 </g>
-<text x="450" y="84" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" letter-spacing="9" fill="url(#title)" filter="url(#glow)">YRRA</text>
+<text x="450" y="84" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="30" font-weight="800" letter-spacing="9" fill="url(#title)" filter="url(#glow)"> YRRA</text>
 <line x1="400" y1="102" x2="500" y2="102" stroke="#f5a623" stroke-opacity="0.6" stroke-width="1.5"/>
 <text x="450" y="140" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="12" font-weight="700" letter-spacing="3" fill="#38bdf8">WEB &amp; BACKEND</text>
 <rect x="189.8" y="152" width="79.6" height="30" rx="8" fill="#38bdf8" fill-opacity="0.09" stroke="#38bdf8" stroke-width="1.4"/>

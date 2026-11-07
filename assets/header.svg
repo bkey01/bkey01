@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260" role="img">
+<defs>
+  <linearGradient id="stroke" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#f5a623"/><stop offset="1" stop-color="#ff6a00"/>
+  </linearGradient>
+  <linearGradient id="title" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0" stop-color="#ffffff"/><stop offset="1" stop-color="#f5a623"/>
+  </linearGradient>
+  <radialGradient id="bg" cx="50%" cy="0%" r="95%">
+    <stop offset="0" stop-color="#17132a"/><stop offset="1" stop-color="#07070c"/>
+  </radialGradient>
+  <filter id="glow" x="-20%" y="-30%" width="140%" height="160%">
+    <feGaussianBlur stdDeviation="4" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+</defs>
+<style>
+  @keyframes pulse { 0%,100% { opacity: 1 } 50% { opacity: .2 } }
+  @keyframes breathe { 0%,100% { opacity: .45 } 50% { opacity: 1 } }
+  .pulse { animation: pulse 1.6s ease-in-out infinite }
+  .breathe { animation: breathe 3.2s ease-in-out infinite }
+</style>
+<rect width="900" height="260" rx="10" fill="#07070c"/>
+<rect x="16" y="16" width="868" height="228" rx="12" fill="url(#bg)"/>
+<rect class="breathe" x="16" y="16" width="868" height="228" rx="12" fill="none" stroke="url(#stroke)" stroke-width="3" filter="url(#glow)"/>
+<rect x="16" y="16" width="868" height="228" rx="12" fill="none" stroke="url(#stroke)" stroke-width="1.5"/>
+<g fill="none" stroke="#f5a623" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round">
+  <path d="M6,36 V6 H36"/>
+  <path d="M864,6 H894 V36"/>
+  <path d="M6,224 V254 H36"/>
+  <path d="M894,224 V254 H864"/>
+</g>
+<text x="450" y="112" text-anchor="middle" font-family="'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif" font-size="56" font-weight="800" letter-spacing="10" fill="url(#title)" filter="url(#glow)">NAMA KAMU</text>
+<text x="450" y="146" text-anchor="middle" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="15" letter-spacing="3" fill="#f5a623">PROGRAMMER · BUILDER · INDONESIA</text>
+<line x1="400" y1="166" x2="500" y2="166" stroke="#f5a623" stroke-opacity="0.6" stroke-width="1.5"/>
+<rect x="352.8" y="184" width="194.4" height="34" rx="9" fill="#f5a623" fill-opacity="0.07" stroke="#f5a623" stroke-width="1.5"/>
+<circle class="pulse" cx="374.8" cy="201" r="4.5" fill="#34d399"/>
+<text x="388.8" y="206" font-family="'JetBrains Mono','Fira Code',Consolas,'Courier New',monospace" font-size="13" font-weight="700" letter-spacing="2" fill="#f5a623">OPEN TO COLLAB</text>
+</svg>

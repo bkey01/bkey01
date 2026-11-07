@@ -25,10 +25,10 @@
 
 <!-- Hapus baris yang tidak dipakai. Ganti USERNAME / link dengan punyamu. -->
 
-<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-USERNAME-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-@USERNAME-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-<a href="https://www.tiktok.com/@USERNAME"><img src="https://img.shields.io/badge/TikTok-@USERNAME-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
-<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-USERNAME-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="https://github.com/USERNAME"><img src="https://img.shields.io/badge/GitHub-bkey01-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://instagram.com/USERNAME"><img src="https://img.shields.io/badge/Instagram-@bkey2_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+<a href="https://www.tiktok.com/@USERNAME"><img src="https://img.shields.io/badge/TikTok-@ngkol_01-000000?style=for-the-badge&logo=tiktok&logoColor=white" alt="TikTok" /></a>
+<a href="https://linkedin.com/in/USERNAME"><img src="https://img.shields.io/badge/LinkedIn-Yanz-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 <a href="mailto:emailkamu@gmail.com"><img src="https://img.shields.io/badge/Email-emailkamu@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 <a href="https://t.me/USERNAME"><img src="https://img.shields.io/badge/Telegram-@USERNAME-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
